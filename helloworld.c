@@ -3,6 +3,7 @@
 main()
 {
   printf("hello, world!\n");
+  printf("Aloha, ka honua!\n");
   printf("¡hola mundo!\n");
   printf("bonjour le monde!\n");
   printf("ciao mondo!\n");
