@@ -9,4 +9,5 @@ main()
   printf("ciao mondo!\n");
   printf("hallo welt!\n");
   printf("こんにちは世界!\n");
+  printf("Hei maailma!\n");
 }
