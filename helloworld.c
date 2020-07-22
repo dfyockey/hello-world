@@ -11,4 +11,5 @@ main()
   printf("こんにちは世界!\n");
   printf("Hei maailma!\n");
   printf("здраво свету!\n");
+  printf("chào thế giới!\n");
 }
