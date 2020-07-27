@@ -10,5 +10,9 @@ main()
   printf("hallo welt!\n");
   printf("こんにちは世界!\n");
   printf("Hei maailma!\n");
+  printf("γειά σου Κόσμε!\n");
+  printf("salve, orbis terrarum!\n");
+  printf("здраво свету!\n");
+  printf("chào thế giới!\n");
   printf("salamu, dunia!\n");
 }
