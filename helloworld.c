@@ -14,4 +14,5 @@ main()
   printf("salve, orbis terrarum!\n");
   printf("здраво свету!\n");
   printf("chào thế giới!\n");
+  printf("salamu, dunia!\n");
 }
