@@ -1,9 +1,9 @@
 # hello-world
 Hello, world! This is my first GitHub repository!
 
-I'm a GitHub noob (actually, not so much now...), but I *do* have some experience using Subversion.
+I used to be a GitHub noob but am not so much now, and I also have some experience using Subversion.
 
-All the activity in this repo lately is from my playing around with branches and merges.
+All the activity in this repo is from my playing around with branches &amp; merges, sponsorship links, and releases.
 
 Here's a test of adding an HTML link my Ko-fi page, as discussed at [How to add a Ko-fi button to GitHub](https://help.ko-fi.com/hc/en-us/articles/360021025553-How-to-add-a-Ko-fi-button-to-GitHub)...
 
