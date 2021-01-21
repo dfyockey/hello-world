@@ -17,4 +17,6 @@ main()
   printf("salamu, dunia!\n");
   printf("\nAck! Too many languages!\n"); // 20210121-1
   printf("No more! Please! No more!\n");  // 20210121-2
+  printf("\nDang! I missed something in that last test! :(\n"); // 20210121-3
+  printf("Oh well, here we go again. :P\n"); // 20210121-4
 }
