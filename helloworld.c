@@ -16,4 +16,5 @@ main()
   printf("chào thế giới!\n");
   printf("salamu, dunia!\n");
   printf("\nAck! Too many languages!\n"); // 20210121-1
+  printf("No more! Please! No more!\n");  // 20210121-2
 }
